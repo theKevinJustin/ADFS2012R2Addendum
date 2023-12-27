@@ -1,10 +1,10 @@
 # ADFS2012R2Addendum
 ADFS 2012R2 addendum pack v1.0.1.8
 
-Download here
+Download [here](https://github.com/theKevinJustin/ADFS2012R2Addendum/blob/main/Microsoft.Active.Directory.Federation.Services.2012R2.Addendum.xml)
 
 ### Microsoft Active Directory Federation Services 2012R2 Addendum
-
+Management pack configures ADFS group and discovery, rules/monitors, tasks, recovery, and overrides to disable alert noise.
 
 Blog [https://kevinjustin.com/blog/2023/08/18/adfs-addendum-pack/](https://kevinjustin.com/blog/2023/08/18/adfs-addendum-pack/)
 
